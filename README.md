@@ -16,3 +16,7 @@ HW6 - Build sorting algorithms: Insertion Sort, Merge Sort, LSD Radix Sort, kthS
 HW7 - Build pattern matching algorithms: Boyer-Moore, KMP, Rabin-Karp. 
 
 HW8 - Build graph algorithms: Depth First Search, Dijkstra, Prim's algorithm. 
+# JUnit Tests
+The JUnit tests provided does not guarantee 100% accuracy. 
+The JUnit tests focus on finding edge case and checking time complexity.
+The JUnit tests mostly imports Before, Test, and Assert. 
